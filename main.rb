@@ -1,5 +1,5 @@
-require_relative "test"
-require_relative "result"
+require_relative "lib/test"
+require_relative "lib/result"
 
 name = ARGV[0]
 
